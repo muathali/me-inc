@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Head in the Clouds</title>
-    <link>https://muathali.github.io/</link>
+    <link>https://muathali.github.io/me-inc/</link>
     <description>Recent content on Head in the Clouds</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 27 Jun 2021 22:15:05 -0400</lastBuildDate>
     
-        <atom:link href="https://muathali.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://muathali.github.io/me-inc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git</title>
-      <link>https://muathali.github.io/tools/git/</link>
+      <link>https://muathali.github.io/me-inc/tools/git/</link>
       <pubDate>Sat, 26 Jun 2021 21:33:26 -0400</pubDate>
       
-      <guid>https://muathali.github.io/tools/git/</guid>
+      <guid>https://muathali.github.io/me-inc/tools/git/</guid>
       <description>Quick git facts to better understand how it works
 Each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot;
 They can be unmodified, modified, or staged. Untracked files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area. When you first clone a repository, all of your files will be tracked and unmodified because Git just checked them out and you haven’t edited anything.</description>
@@ -22,19 +22,19 @@ They can be unmodified, modified, or staged. Untracked files are everything else
     
     <item>
       <title></title>
-      <link>https://muathali.github.io/status/version-2-2-0-released/</link>
+      <link>https://muathali.github.io/me-inc/status/version-2-2-0-released/</link>
       <pubDate>Sat, 15 Aug 2020 10:45:44 +0200</pubDate>
       
-      <guid>https://muathali.github.io/status/version-2-2-0-released/</guid>
+      <guid>https://muathali.github.io/me-inc/status/version-2-2-0-released/</guid>
       <description>I&amp;rsquo;m happy to announce a new theme release with the powerful new status post type!</description>
     </item>
     
     <item>
       <title>Support and Discussions</title>
-      <link>https://muathali.github.io/article/support-and-discussions/</link>
+      <link>https://muathali.github.io/me-inc/article/support-and-discussions/</link>
       <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
       
-      <guid>https://muathali.github.io/article/support-and-discussions/</guid>
+      <guid>https://muathali.github.io/me-inc/article/support-and-discussions/</guid>
       <description>Hey there!
 This Premium Theme is published under an open source license so you can use it for your blog. It took me 100+ hours of work to create one of the best Hugo themes out there.
 If you enjoy this theme and want to stay informed about the latest releases and features or want to say thanks and discuss with other users, join our Discord server:</description>
@@ -42,58 +42,58 @@ If you enjoy this theme and want to stay informed about the latest releases and 
     
     <item>
       <title>My Trip to Scotland</title>
-      <link>https://muathali.github.io/gallery/my-trip-to-scotland/</link>
+      <link>https://muathali.github.io/me-inc/gallery/my-trip-to-scotland/</link>
       <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
       
-      <guid>https://muathali.github.io/gallery/my-trip-to-scotland/</guid>
+      <guid>https://muathali.github.io/me-inc/gallery/my-trip-to-scotland/</guid>
       <description>In June 2017 I&amp;rsquo;ve visited Scotland with my best friend for two weeks. We drove a lot through the beautiful countryside and saw a lot of different animals: cattle, deer, birds, dolphins, and sheep. Sheep everywhere!
 At one beautiful camping site, we saw cattle in fog in the very early morning and took a picture of it. The image now has the title &amp;ldquo;Rindviecher im Nebel&amp;rdquo;, a quite funny German phrase that means cattle in the fog.</description>
     </item>
     
     <item>
       <title>Kilez More - Life And Death Of The Hegemony</title>
-      <link>https://muathali.github.io/video/kilez-more-leben-und-tod-des-imperialismus/</link>
+      <link>https://muathali.github.io/me-inc/video/kilez-more-leben-und-tod-des-imperialismus/</link>
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
-      <guid>https://muathali.github.io/video/kilez-more-leben-und-tod-des-imperialismus/</guid>
+      <guid>https://muathali.github.io/me-inc/video/kilez-more-leben-und-tod-des-imperialismus/</guid>
       <description>&lt;p&gt;Kilez More is a great Austrian musician.
 Most of his songs have a political background and have amazing lyrics!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kilez More - New World Order</title>
-      <link>https://muathali.github.io/audio/kilez-more-new-world-order/</link>
+      <link>https://muathali.github.io/me-inc/audio/kilez-more-new-world-order/</link>
       <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
       
-      <guid>https://muathali.github.io/audio/kilez-more-new-world-order/</guid>
+      <guid>https://muathali.github.io/me-inc/audio/kilez-more-new-world-order/</guid>
       <description>With the audio post type you can easily integrate a Spotify, SoundCloud, TuneIn or Mixcloud player to your post.
 If you don&amp;rsquo;t want to embed sound but use a header image you can set it with the featuredImage option in your markdown file.</description>
     </item>
     
     <item>
       <title>Duckduckgo.com</title>
-      <link>https://muathali.github.io/link/duckduckgo/</link>
+      <link>https://muathali.github.io/me-inc/link/duckduckgo/</link>
       <pubDate>Wed, 01 Nov 2017 13:05:27 +0100</pubDate>
       
-      <guid>https://muathali.github.io/link/duckduckgo/</guid>
+      <guid>https://muathali.github.io/me-inc/link/duckduckgo/</guid>
       <description>A search engine that respects your privacy.</description>
     </item>
     
     <item>
       <title>Edward Snowden About Privacy</title>
-      <link>https://muathali.github.io/quote/edward-snowden-privacy/</link>
+      <link>https://muathali.github.io/me-inc/quote/edward-snowden-privacy/</link>
       <pubDate>Wed, 01 Nov 2017 13:01:14 +0100</pubDate>
       
-      <guid>https://muathali.github.io/quote/edward-snowden-privacy/</guid>
+      <guid>https://muathali.github.io/me-inc/quote/edward-snowden-privacy/</guid>
       <description>Arguing that you don&amp;rsquo;t care about the right to privacy because you have nothing to hide is no different than saying you don&amp;rsquo;t care about free speech because you have nothing to say.</description>
     </item>
     
     <item>
       <title>Installing Bilberry Theme</title>
-      <link>https://muathali.github.io/code/installing-bilberry-theme/</link>
+      <link>https://muathali.github.io/me-inc/code/installing-bilberry-theme/</link>
       <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
       
-      <guid>https://muathali.github.io/code/installing-bilberry-theme/</guid>
+      <guid>https://muathali.github.io/me-inc/code/installing-bilberry-theme/</guid>
       <description>&lt;p&gt;You will find all information to setup this theme with your hugo site
 on the official &lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://github.com/Lednerb/bilberry-hugo-theme&#34;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
