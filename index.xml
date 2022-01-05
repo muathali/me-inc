@@ -15,7 +15,7 @@
       <pubDate>Sat, 26 Jun 2021 21:33:26 -0400</pubDate>
       
       <guid>https://muathali.github.io/me-inc/tools/git/</guid>
-      <description>Quick git facts to better understand how it works
+      <description>Quick git facts to better understand how it works &amp;hellip;
 Each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot;
 They can be unmodified, modified, or staged. Untracked files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area. When you first clone a repository, all of your files will be tracked and unmodified because Git just checked them out and you haven’t edited anything.</description>
     </item>
